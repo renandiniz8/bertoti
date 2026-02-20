@@ -12,7 +12,6 @@ Extensão: Dado o avanço significativo das tecnologias, há diversos dispositiv
 Agilidade: Os bons desenvolvedores atentam-se para que o software não rode etapas inúteis para alcançar os objetivos dos usuários. Procuram otimizar os passos e assim otimizar memória e velocidade de desempenho. 
 
 Atividade 4: 
-Citar e descrever 3 cenários de trade-offs (ver slide 12, mas usar outros exemplos)
 Segurança x Facilidade: aplicativos de transporte garantem uma facilidade para o usuário mas apresenta riscos aos usários devido a limitação de critérios dos usuários.
 Consistência x Disponibilidade: alguns bancos de dados priorizam a consistência (como a utilizada por bancos) enquanto outras tem como prioridade a garantia da disponibilidade (redes sociais).
 Generalização x Características Específicas: Existem softwares orientados para atividades de um ramo, porém cada empresa do ramo possui um procedimento interno distinto.
